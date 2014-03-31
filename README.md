@@ -1,4 +1,4 @@
-bitpay-brand
+BitPay Brand
 ============
 
-BitPay brand assets
+This repository contains BitPay's brand assets.
