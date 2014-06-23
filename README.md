@@ -1,7 +1,9 @@
 BitPay Brand
 ============
 
-This repository contains BitPay's brand assets.
+BitPay provides powerful integrations for businesses to add bitcoin as a payment method. With BitPay, businesses can accept bitcoin and get paid in US Dollars, Euros, GBP, CAD, and more, straight to a bank account.
+
+Over 30,000 businesses and organizations including WordPress, Shopify, TigerDirect, and Virgin Galactic trust BitPay to enable bitcoin payments.
 
 ##Logo
 ###Primary logo
