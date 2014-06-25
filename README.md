@@ -7,11 +7,21 @@ Over 30,000 businesses and organizations including WordPress, Shopify, TigerDire
 
 ##Logo
 ###Primary logo
-This is the best logo to use for all applications. It is the [white logo](bitpay-logo-primary.png) on the BitPay Blue background.
+This is the best logo for all applications. It is the [white logo](bitpay-logo-primary.png) on the BitPay Blue background.
 ![BitPay Logo](bitpay-logo-full.png)
 ###Logo inverted
 ![BitPay Logo Inverse](bitpay-logo-inverse.png)
 
+##BitPay
+
+BitPay is written with the `B` and `P` capitalized to distinguish BitPay (our company) from Bitcoin (the currency). In code, `bitpay` is all lowercase.
+
+- ✓ **BitPay**
+- ✓ **`bitpay`**
+- × *Bitpay*
+- × *bitPay*
+- × *bit-pay*
+- × *bit pay*
 
 ##BitPay Blue
 
