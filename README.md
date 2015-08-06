@@ -25,7 +25,7 @@ BitPay is written with the `B` and `P` capitalized to distinguish BitPay (our co
 
 ##BitPay Blue
 
-The BitPay Blue is PMS 295. Please use official Pantone Matching System swatches where available.
+The BitPay Blue is PMS 286 uncoated and 2728 coated. Please use official Pantone Matching System swatches where available.
 
 ###Close Matches
 
@@ -33,13 +33,13 @@ The BitPay Blue is PMS 295. Please use official Pantone Matching System swatches
 
 | Red | Green | Blue |
 |:---:|:-----:|:----:|
-|  0  |   40  |  85  |
+|  26  |   58  |  139  |
 
 #####Hex
-`#002855`
+`#1a3a8b`
 
 ####Bridge CMYK
 
 | Cyan | Magenta | Yellow | Key (Black) |
 |:----:|:-------:|:------:|:-----------:|
-| 100  |   69    |   8    |      54     |
+| 100  |   91    |   13    |      2     |
