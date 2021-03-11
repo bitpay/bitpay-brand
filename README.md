@@ -1,3 +1,6 @@
+# This repository is no longer maintained
+## Please visit [https://brand.bitpay.com](https://brand.bitpay.com/7b6hnbyxw/v/0/p/69207b-our-story) for our current brand guide.
+
 BitPay Brand
 ============
 
